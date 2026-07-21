@@ -11,8 +11,8 @@ Manually reviewing downloaded HTML pages and copying values into a spreadsheet i
 The parser was initially generated with assistance from Perplexity.ai and then manually reviewed, verified, and tested against sample data to confirm tge code is functional with no critical bugs, and reusable for future use.
 
 This project is an example of AI-augmented development with human validation and review. The final implementation, testing, and documentation were reviewed and confirmed before being added to this repository
-## About the "Acuity_lab/" Directory
-The Acuity_lab directory created for this project contains SYNTHETIC HTML examples that simulate exports from a scheduling workflow similar to the original real-world use-case. All data and page content in this directory and project is fabricated for lab and portfolio purposes only, and does NOT include any real customer, organizational, or propreitary information to protect the Confidentiality and Integrity of data.
+## About the Acuity Information
+The AcuityLab information created for this project contains SYNTHETIC HTML examples that simulate exports from a scheduling workflow similar to the original real-world use-case. All data and page content in this directory and project is fabricated for lab and portfolio purposes only, and does NOT include any real customer, organizational, or propreitary information to protect the Confidentiality and Integrity of data.
 ## Features
 - Parses multiple HTML files from a single ZIP archive
 - Extracts selected fields such as title, date, status, and table values
@@ -277,4 +277,4 @@ This project highlights practical skills in:
 - Support CSV outputin addition to Excel
 - Package the script for easier reuse
 ## License
-This project is shared for portfolio educational purposes
+This project is shared for portfolio and educational purposes
